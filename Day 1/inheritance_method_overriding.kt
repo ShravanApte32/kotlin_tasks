@@ -14,6 +14,7 @@ open class Vehicle(
     open val yearOfManufacture: Int
 ) {
     open fun startEngine() {
+        println("Vehicle engine started")
     }
 }
 
