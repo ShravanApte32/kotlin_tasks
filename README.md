@@ -28,48 +28,66 @@ I'm documenting my progress through coding exercises, practical examples, and pr
 | 08 | Method Overriding | ✅ Completed |
 | 09 | Runtime Polymorphism | ✅ Completed |
 | 10 | Abstract Classes | ✅ Completed |
-| 11 | Interfaces | 🔄 In Progress |
 
-### Upcoming Topics
+### Day 2 – Interfaces & Collections
 
-- Collections
-- Data Classes
-- Sealed Classes
-- Extension Functions
-- Higher-Order Functions
-- Lambda Expressions
-- Scope Functions
-- Exception Handling
-- Generics
-- Coroutines
-- Flow
-- Kotlin for Android Development
+| No. | Topic | Status |
+|---|---|---|
+| 01 | Interfaces | ✅ Completed |
+| 02 | Multiple Interface Implementation | ✅ Completed |
+| 03 | Default Interface Implementations | ✅ Completed |
+| 04 | Lists & Mutable Lists | ✅ Completed |
+| 05 | Collection Iteration | ✅ Completed |
+| 06 | Filtering Collections Using Loops | ✅ Completed |
+| 07 | Collection Operations | ✅ Completed |
+
+### Day 3 – Strings, Maps, Sets & Lambdas
+
+| No. | Topic | Status |
+|---|---|---|
+| 01 | String Manipulation | ✅ Completed |
+| 02 | Maps & Mutable Maps | ✅ Completed |
+| 03 | Sets & Mutable Sets | ✅ Completed |
+| 04 | Lambda Expressions | ✅ Completed |
+| 05 | filter(), map() & forEach() | ✅ Completed |
+| 06 | Higher-Order Functions | 🔄 In Progress |
 
 ## 📂 Repository Structure
 
 ```text
-Kotlin-Learning/
+Kotlin Tasks/
 │
-├── Day-01/
-│   ├── 01_Null_Safety.kt
-│   ├── 02_Employee.kt
-│   ├── 03_BankAccount.kt
-│   ├── 04_Inheritance.kt
-│   ├── 05_Runtime_Polymorphism.kt
-│   └── 06_Abstract_Classes.kt
+├── Day 1/
+│   ├── abstract_classes_method_overriding.kt
+│   ├── classes_objects_constructors.kt
+│   ├── encapsulation_access_modifiers.kt
+│   ├── inheritance_method_overriding.kt
+│   ├── runtime_polymorphism.kt
+│   └── variables_datatypes_nullsafety.kt
 │
-├── Day-02/
-│   └── ...
+├── Day 2/
+│   ├── calculate_total_and_average.kt
+│   ├── default_interface_implementations_...
+│   ├── interfaces.kt
+│   ├── list_filtering_using_loops.kt
+│   ├── multiple_interface_implementation.kt
+│   └── mutablelist_employee_management.kt
+│
+├── Day 3/
+│   ├── lambda_functions_employee_salary_...
+│   ├── maps_and_mutable_maps.kt
+│   ├── sets_and_mutable_sets.kt
+│   └── string_manipulation.kt
 │
 └── README.md
 ```
 
-*The folder structure will evolve as I progress.*
+*The repository structure will evolve as I progress.*
 
 ## 🛠️ Tech Stack
 
 - Language: Kotlin
-- IDE: IntelliJ IDEA
+- IDE: IntelliJ IDEA / Android Studio / VS Code
 - Platform: Kotlin/JVM
 
 ## 📌 Learning Approach
@@ -81,6 +99,10 @@ Kotlin-Learning/
 - Focus on practical understanding rather than memorization.
 
 ## 🌱 Progress
+
+Three days of structured Kotlin learning completed so far, covering fundamentals, OOP, interfaces, collections, and lambda expressions.
+
+Higher-order functions are currently in progress.
 
 This repository represents my ongoing journey toward becoming a stronger Kotlin developer.
 
