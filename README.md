@@ -41,7 +41,7 @@ I'm documenting my progress through coding exercises, practical examples, and pr
 | 06 | Filtering Collections Using Loops | ✅ Completed |
 | 07 | Collection Operations | ✅ Completed |
 
-### Day 3 – Strings, Maps, Sets & Lambdas
+### Day 3 – Strings, Maps, Sets & Functional Programming
 
 | No. | Topic | Status |
 |---|---|---|
@@ -50,7 +50,21 @@ I'm documenting my progress through coding exercises, practical examples, and pr
 | 03 | Sets & Mutable Sets | ✅ Completed |
 | 04 | Lambda Expressions | ✅ Completed |
 | 05 | filter(), map() & forEach() | ✅ Completed |
-| 06 | Higher-Order Functions | 🔄 In Progress |
+| 06 | Higher-Order Functions | ✅ Completed |
+| 07 | Function Types & Function References | ✅ Completed |
+| 08 | Trailing Lambda Syntax | ✅ Completed |
+
+### Day 4 – Advanced Kotlin Fundamentals
+
+| No. | Topic | Status |
+|---|---|---|
+| 01 | Data Classes | ✅ Completed |
+| 02 | Enum Classes | ✅ Completed |
+| 03 | Sealed Classes | 🔄 In Progress |
+| 04 | Object & Companion Objects | ⏳ Pending |
+| 05 | Extension Functions | ⏳ Pending |
+| 06 | Scope Functions | ⏳ Pending |
+| 07 | Exception Handling | ⏳ Pending |
 
 ## 📂 Repository Structure
 
@@ -67,17 +81,22 @@ Kotlin Tasks/
 │
 ├── Day 2/
 │   ├── calculate_total_and_average.kt
-│   ├── default_interface_implementations_...
+│   ├── default_interface_implementations_and_super.kt
 │   ├── interfaces.kt
 │   ├── list_filtering_using_loops.kt
 │   ├── multiple_interface_implementation.kt
 │   └── mutablelist_employee_management.kt
 │
 ├── Day 3/
-│   ├── lambda_functions_employee_salary_...
+│   ├── higher_order_functions_discount_calculator.kt
+│   ├── lambda_functions_employee_salary_processing.kt
 │   ├── maps_and_mutable_maps.kt
 │   ├── sets_and_mutable_sets.kt
 │   └── string_manipulation.kt
+│
+├── Day 4/
+│   ├── data_classes_student_management.kt
+│   └── enum_classes_order_management.kt
 │
 └── README.md
 ```
@@ -100,9 +119,9 @@ Kotlin Tasks/
 
 ## 🌱 Progress
 
-Three days of structured Kotlin learning completed so far, covering fundamentals, OOP, interfaces, collections, and lambda expressions.
+Three days of structured Kotlin learning completed, covering fundamentals, OOP, interfaces, collections, strings, and functional programming.
 
-Higher-order functions are currently in progress.
+Day 4 is currently underway, with Data Classes and Enum Classes completed and Sealed Classes in progress.
 
 This repository represents my ongoing journey toward becoming a stronger Kotlin developer.
 
